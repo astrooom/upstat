@@ -12,7 +12,7 @@ services:
     restart: unless-stopped
     image: chamanbravo/upstat-web:latest
     ports:
-      - "3000:3000"
+      - "9866:3000"
     depends_on:
       - api
 

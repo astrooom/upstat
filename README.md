@@ -53,7 +53,7 @@ curl -O https://raw.githubusercontent.com/chamanbravo/upstat/main/docker-compose
 docker compose up
 ```
 
-Upstat is now running on http://localhost:3000
+Upstat is now running on http://localhost:9866
 
 > [!IMPORTANT]
 > Make sure to change the enviornment values before deploying.
